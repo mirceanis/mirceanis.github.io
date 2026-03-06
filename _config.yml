@@ -11,8 +11,7 @@ minima:
   social_links:
     - { platform: github, user_url: "https://github.com/mirceanis" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/mirceanis" }
-    - { platform: mastodon, user_url: "https://mastodon.social/@mirceanis" }
-    - { platform: bluesky, user_url: "https://bsky.app/profile/mirceanis.xyz" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/mirceanis.bsky.social" }
 
 plugins:
   - jekyll-remote-theme
