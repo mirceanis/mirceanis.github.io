@@ -1,3 +1,28 @@
-include: [".well-known"]
-baseurl: ""
-theme: jekyll-theme-minimal
+title: Mircea Nistor
+description: >-
+  Building tools for decentralized identity.
+  DIDs, Verifiable Credentials, and open-source infrastructure.
+url: "https://mirceanis.xyz"
+
+remote_theme: jekyll/minima@bf9ef989246b63536e9db61082f663f1a6d4d9ce
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/mirceanis" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mirceanis" }
+    - { platform: mastodon, user_url: "https://mastodon.social/@mirceanis" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/mirceanis.xyz" }
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - .well-known
+
+header_pages:
+  - blog.md
+
+permalink: /blog/:year/:month/:day/:title/
