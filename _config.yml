@@ -9,9 +9,9 @@ remote_theme: jekyll/minima@bf9ef989246b63536e9db61082f663f1a6d4d9ce
 minima:
   skin: auto
   social_links:
-    - { platform: github, user_url: "https://github.com/mirceanis" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mirceanis" }
-    - { platform: bluesky, user_url: "https://bsky.app/profile/mirceanis.bsky.social" }
+    - { title: GitHub, icon: github, url: "https://github.com/mirceanis" }
+    - { title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mirceanis" }
+    - { title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/mirceanis.xyz" }
 
 plugins:
   - jekyll-remote-theme
