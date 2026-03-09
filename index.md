@@ -10,6 +10,8 @@ I build open-source tools that help developers work with
 [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/),
 and related standards.
 
+---
+
 ## Projects I maintain
 
 <div class="project-cards">
@@ -50,3 +52,5 @@ and related standards.
 </a>
 
 </div>
+
+---

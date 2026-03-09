@@ -13,6 +13,9 @@ minima:
     - { title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mirceanis" }
     - { title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/mirceanis.bsky.social" }
 
+sass:
+  quiet_deps: true
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
