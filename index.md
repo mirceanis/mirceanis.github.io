@@ -1,11 +1,15 @@
 ---
 layout: home
-title: Home
 ---
 
-I'm Mircea, a software engineer working mostly on decentralized identity infrastructure.
+<img class="avatar" src="/assets/img/avatar_300px.jpg" alt="Mircea Nistor">
 
-I build open-source tools that help developers work with
+Hi, I'm Mircea, a builder of software, curious about distributed systems, cryptography, thinking tools,
+and the emergence of complex behavior from simple rules.
+
+In recent years, I have been hanging out around the Ethereum ecosystem, building mostly decentralized identity tools.
+These should help developers
+work with
 [DIDs](https://www.w3.org/TR/did-core/),
 [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/),
 and related standards.
@@ -52,5 +56,13 @@ and related standards.
 </a>
 
 </div>
+
+---
+
+If you find any of this useful and especially if you use it in your own company,
+consider [sponsoring me ❤️](https://github.com/sponsors/mirceanis)
+
+Your sponsorship would help me dedicate more time to open source work and keep these projects free for everyone, while
+still being able to support my family.
 
 ---
