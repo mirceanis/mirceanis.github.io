@@ -11,7 +11,7 @@ minima:
   social_links:
     - { title: GitHub, icon: github, url: "https://github.com/mirceanis" }
     - { title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mirceanis" }
-    - { title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/mirceanis.bsky.social" }
+    - { title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/mirceanis.xyz" }
 
 sass:
   quiet_deps: true
